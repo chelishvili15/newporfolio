@@ -4,11 +4,11 @@ const project2 = Object.values(document.getElementById('project2').children);
 const fullProject = project1.concat(project2);
 const myProject = [
   'https://chelishvili15.github.io/trivia',
-  'https://chelishvili15.github.io/shaliko',
+  'https://chelishvili15.github.io/tbcclone',
   'https://chelishvili15.github.io/numbers',
   'https://chelishvili15.github.io/Tic-Tac-Toe',
   'https://chelishvili15.github.io/calcu',
-  'https://chelishvili15.github.io/bura'
+  'https://chelishvili15.github.io/crocobetclone'
 ]
 for (let i = 0; i < fullProject.length; i++){
   fullProject[i].children[0].innerHTML = myProject[i].slice(32, myProject[i].length)  

@@ -6,7 +6,7 @@ const myProject = [
   'https://chelishvili15.github.io/trivia',
   'https://chelishvili15.github.io/tbcclone',
   'https://chelishvili15.github.io/numbers',
-  'https://chelishvili15.github.io/Tic-Tac-Toe',
+  'https://chelishvili15.github.io/TicTacToe',
   'https://chelishvili15.github.io/calcu',
   'https://chelishvili15.github.io/crocobetclone'
 ]
